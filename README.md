@@ -3,9 +3,9 @@ This Python script is a basic chatbot application built using Tkinter. It operat
 
 *************************************************************
 Libraries Used:
-1- OpenCV (cv2):** It is a library used for image processing and computer vision tasks. It has been used for face recognition operations. To install: pip install opencv-python
-2- kinter (tk):** It is Python's standard GUI (Graphical User Interface) library. It has been used to create the user interface. It usually comes bundled with Python, so you may not need to install it separately.
-3- PIL (Python Imaging Library):** It is a library used for image processing. In this project, the submodules of PIL, namely Image and ImageTk, have been used. To install: pip install pillow
+1- OpenCV (cv2): It is a library used for image processing and computer vision tasks. It has been used for face recognition operations. To install: pip install opencv-python
+2- kinter (tk): It is Python's standard GUI (Graphical User Interface) library. It has been used to create the user interface. It usually comes bundled with Python, so you may not need to install it separately.
+3- PIL (Python Imaging Library): It is a library used for image processing. In this project, the submodules of PIL, namely Image and ImageTk, have been used. To install: pip install pillow
 
 *************************************************************
 Running the Application:
